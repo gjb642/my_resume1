@@ -1,0 +1,142 @@
+html, body, h1, h2, h3{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: Arial;
+}
+.intro{
+    margin: 0;
+    height: 290px;
+    background-color:darkgrey;
+    clear: both;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    background-image: url(../images/anony.png)
+}
+h2, h3{
+    font-family: Arial;
+}
+.avatar{
+    margin: 2%;
+    margin-top: 0;
+    height: 222px;
+    width: 183px;   
+    float: left;
+}
+.text{
+    margin-top: 53px;
+    float: left;
+    height: 30px;
+    width: 200px;
+}
+.hist{
+    font-family: Calibri;
+    font-size: 22px;
+    height: 222px;
+    width: 350px;
+    margin-top: 4%;
+}
+.cont{ 
+    height: 250px;
+    width: 50%;
+    float: right;
+    text-align: left;
+    margin-right: 2%;
+    line-height: 4;
+    color:black;
+    font-family: Lucida Sans Unicode;
+    font-size: 21px;
+}
+.cont2{
+    height: 250px;
+    width: 50%;
+    float: right;
+    text-align: left;
+    margin-right: 2%;
+    line-height: 4;
+    color: black;
+    font-family: Lucida Sans Unicode;
+    font-size: 21px;
+}
+.skills{
+    height: 350px;
+    width: 600px;
+    float: left;
+    margin-left: 2%;
+}
+.metka{
+    height: 50px;
+    width: 50px;
+    background: url(..//images/location-pointer_photo-resizer.ru.png) no-repeat;
+}
+.progressbar1{
+    width: 80%;
+    height: 30px;
+    background: #333333;  
+}
+.progressbarb1{
+    width: 65%;
+    height: 30px;
+    background: #c0c0c0;  
+}
+p{
+    margin-left: 2%;
+}
+.progressbar2{
+    width: 50%;
+    height: 30px;
+    background: #666666;  
+}
+.progressbarb2{
+    width: 65%;
+    height: 30px;
+    background: #c0c0c0;  
+}
+.progressbar3{
+    width: 75%;
+    height: 30px;
+    background: #333333;  
+}
+.progressbarb3{
+    width: 65%;
+    height: 30px;
+    background: #c0c0c0;  
+}
+.progressbar4{
+    width: 95%;
+    height: 30px;
+    background: #666666;  
+}
+.progressbarb4{
+    width: 65%;
+    height: 30px;
+    background: #c0c0c0;  
+}
+.education{
+    float: right;
+    height: 365px;
+    width: 800px;
+    font-family: Tahoma;
+}
+.eduinfo{
+    font-family: Tahoma;
+    font-size: 20px;
+    height: 222px;
+    width: 200px;
+    margin-top: 4%;
+    margin-left: 2%;
+    padding: 2px;
+
+}
+.eduinfo2{
+    font-family: Tahoma;
+    font-size: 20px;
+    height: 222px;
+    width: 200px;
+    margin-top: 4%;
+    float: right;
+
+}
